@@ -94,7 +94,7 @@ generator.generate_report('financial_report.pdf')
 - Jupyter for interactive analysis
 
 ## Contact
-Project Link: https://github.com/Sridharmalladi/FinFlowPro
+Project Link: https://github.com/Sridharmalladi/FinAuto
 
 ## Acknowledgments
 - Financial analysis best practices
